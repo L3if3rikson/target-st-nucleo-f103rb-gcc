@@ -2,9 +2,9 @@
   "name": "st-nucleo-f103rb-gcc",
   "version": "0.0.1",
   "description": "UNOfficial mbed build target for the mbed ST Nucleo f103rb development board, using armgcc toolchain",
-  "homepage": "https://github.com/L3if3rikson/target-st-nucleo-f103rb-gcc/tree/master/target-st-nucleo-f103rb-gcc",
+  "homepage": "https://github.com/L3if3rikson/target-st-nucleo-f103rb-gcc.git",
   "repository": {
-    "url": "https://github.com/L3if3rikson/target-st-nucleo-f103rb-gcc/tree/master/target-st-nucleo-f103rb-gcc",
+    "url": "https://github.com/L3if3rikson/target-st-nucleo-f103rb-gcc.git",
     "type": "git"
   },
   "licenses": [
